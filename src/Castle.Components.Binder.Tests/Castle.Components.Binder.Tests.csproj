@@ -158,10 +158,6 @@
     <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Castle.Components.Binder\Castle.Components.Binder.csproj">
-      <Project>{CB9293F5-FC24-43A0-9599-C8555A61E35E}</Project>
-      <Name>Castle.Components.Binder</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Castle.Components.Validator\Castle.Components.Validator.csproj">
       <Project>{4C945D49-02E9-43F2-9202-E7A6E7C56E77}</Project>
       <Name>Castle.Components.Validator</Name>
